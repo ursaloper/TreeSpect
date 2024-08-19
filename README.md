@@ -1,4 +1,4 @@
-![Header Image](https://github.com/ursaloper/TreeSpect/blob/assets/header.jpg)
+![Header Image](https://i.imgur.com/rAosM9d.jpeg)
 # TreeSpect 🌳
 
 TreeSpect is a powerful Python script for visualizing directory structures. It provides a clear and informative representation of your project's file system, which is especially useful for documentation and quick project overviews.
