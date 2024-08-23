@@ -7,7 +7,7 @@ from collections import deque
 import time
 
 # Configuration
-IGNORE_DIRS = ["__pycache__"]
+IGNORE_DIRS = ["__pycache__", ".git"]
 SCRIPT_NAME = os.path.basename(sys.argv[0])
 IGNORE_FILE_PREFIXES = ["treespect_result_", "venv_packages_"]
 MAX_DEPTH = 10  # Maximum depth for directory traversal
